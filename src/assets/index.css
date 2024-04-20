@@ -77,6 +77,6 @@
   }
 
   #app {
-    @apply grid items-center justify-center h-screen;
+    @apply grid items-center justify-center h-[120vh];
   }
 }
